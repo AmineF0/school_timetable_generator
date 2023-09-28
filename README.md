@@ -12,3 +12,4 @@ The solution will use Genetic Algorithm for finding an optimal solution given th
 * v 3.0 university
 
 ### Used sources :
+https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/
